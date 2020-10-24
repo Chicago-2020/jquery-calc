@@ -1,3 +1,3 @@
 # jquery-calc
 
-Whoooo hooo!!!
+Super cool jQuery calculator!
